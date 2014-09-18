@@ -1,4 +1,9 @@
 
+1.1.2a / 2014-09-17
+==================
+
+ * Switch clock dep to gvilarino
+
 1.1.2 / 2014-04-10
 ==================
 
@@ -16,7 +21,7 @@
  * fix after domify upgrade
  * freeze component dependencies - update to latest versions
 
-1.0.0 / 2013-02-27 
+1.0.0 / 2013-02-27
 ==================
 
  * 'focus' and 'blur' used to show/hide timepicker
@@ -24,7 +29,7 @@
  * Don't activate time picker on disabled inputs
  * Expose popover position method
 
-0.0.1 / 2013-02-21 
+0.0.1 / 2013-02-21
 ==================
 
  * Use clock component to implement timepicker
